@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "695366412504",
+    "firebase_url": "https://project-40631-default-rtdb.firebaseio.com",
+    "project_id": "project-40631",
+    "storage_bucket": "project-40631.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695366412504:android:ca828b7b79cf3f477e4fad",
+        "android_client_info": {
+          "package_name": "com.example.eco_saver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYFgQGTfX3_OrvMKy2k-M_6lhGSdwjaHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
